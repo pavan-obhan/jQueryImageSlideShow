@@ -18,5 +18,5 @@ setInterval(function(){ // goes indefinitely until exit condition specified
         console.log($(this).attr('src'))
 });
 },2000);
-
+//
 });
